@@ -1,0 +1,55 @@
+body{background-color: floralwhite;}
+
+h1{font-family: fantasy;
+font-size: 20px;
+text-align: center;
+}
+
+h2{font-family: cursive;
+    text-align: center;
+color: firebrick;
+font-size: 35px;}
+
+a{color: darkblue;
+}
+
+p{font-family: fantasy;
+    font-size: 20px;
+text-align: center;}
+
+
+
+p1{font-family: fantasy;
+    font-size: 16px;
+text-align: center;}
+
+
+.credits{font-size: 15px;
+    color: rgb(100,100,100);
+text-align: center;
+}
+
+
+/*ul { margin-right: 0px;
+    list-style-position: inside;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 19px;
+text-align: center;}
+}*/
+ul{margin-left: 400px;
+   list-style-position: inside;       
+}
+
+img {display: block;
+        margin-left: auto;
+         margin-right: auto;
+        }
+iframe {display: block;
+        margin-left: auto;
+         margin-right: auto;
+        }
+audio {display: block;
+        margin-left: auto;
+         margin-right: auto;
+        }
